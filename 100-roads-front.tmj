@@ -43817,11 +43817,11 @@
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        2,
+        2,
+        2,
+        2,
+        2,
         0,
         0,
         0,
@@ -59382,7 +59382,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "",
           "width": 129.30386408059
         },
         {
@@ -59400,7 +59400,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "",
           "width": 42.2819639025622
         },
         {
@@ -59418,7 +59418,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "",
           "width": 26.5051117001136
         },
         {
@@ -59436,7 +59436,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "",
           "width": 39.1265934620724
         },
         {
@@ -59454,7 +59454,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "",
           "width": 32.8158525810927
         },
         {
@@ -59472,7 +59472,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "",
           "width": 160.555860877758
         },
         {
@@ -59490,7 +59490,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "",
           "width": 213.198795670925
         },
         {
@@ -59508,7 +59508,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "",
           "width": 306.778419724957
         },
         {
@@ -59526,7 +59526,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "",
           "width": 38.7069426951791
         }
       ],
@@ -64481,12 +64481,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.8.4",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "100-roads-front-chunk-1-cec9fba8.png",
+      "image": "100-roads-front-chunk-1-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64512,7 +64512,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "100-roads-front-chunk-2-cec9fba8.png",
+      "image": "100-roads-front-chunk-2-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64527,7 +64527,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "100-roads-front-chunk-3-cec9fba8.png",
+      "image": "100-roads-front-chunk-3-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64542,7 +64542,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "100-roads-front-chunk-4-cec9fba8.png",
+      "image": "100-roads-front-chunk-4-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64557,7 +64557,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "100-roads-front-chunk-5-cec9fba8.png",
+      "image": "100-roads-front-chunk-5-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64572,7 +64572,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "100-roads-front-chunk-6-cec9fba8.png",
+      "image": "100-roads-front-chunk-6-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64587,7 +64587,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "100-roads-front-chunk-7-cec9fba8.png",
+      "image": "100-roads-front-chunk-7-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64602,7 +64602,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "100-roads-front-chunk-8-cec9fba8.png",
+      "image": "100-roads-front-chunk-8-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64617,7 +64617,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "100-roads-front-chunk-9-cec9fba8.png",
+      "image": "100-roads-front-chunk-9-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64632,7 +64632,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "100-roads-front-chunk-10-cec9fba8.png",
+      "image": "100-roads-front-chunk-10-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64647,7 +64647,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "100-roads-front-chunk-11-cec9fba8.png",
+      "image": "100-roads-front-chunk-11-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64662,7 +64662,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "100-roads-front-chunk-12-cec9fba8.png",
+      "image": "100-roads-front-chunk-12-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64677,7 +64677,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "100-roads-front-chunk-13-cec9fba8.png",
+      "image": "100-roads-front-chunk-13-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64692,7 +64692,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "100-roads-front-chunk-14-cec9fba8.png",
+      "image": "100-roads-front-chunk-14-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64707,7 +64707,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "100-roads-front-chunk-15-cec9fba8.png",
+      "image": "100-roads-front-chunk-15-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64722,7 +64722,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "100-roads-front-chunk-16-cec9fba8.png",
+      "image": "100-roads-front-chunk-16-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64737,7 +64737,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "100-roads-front-chunk-17-cec9fba8.png",
+      "image": "100-roads-front-chunk-17-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64752,7 +64752,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "100-roads-front-chunk-18-cec9fba8.png",
+      "image": "100-roads-front-chunk-18-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64767,7 +64767,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "100-roads-front-chunk-19-cec9fba8.png",
+      "image": "100-roads-front-chunk-19-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64782,7 +64782,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "100-roads-front-chunk-20-cec9fba8.png",
+      "image": "100-roads-front-chunk-20-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64797,7 +64797,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "100-roads-front-chunk-21-cec9fba8.png",
+      "image": "100-roads-front-chunk-21-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64812,7 +64812,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "100-roads-front-chunk-22-cec9fba8.png",
+      "image": "100-roads-front-chunk-22-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64827,7 +64827,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "100-roads-front-chunk-23-cec9fba8.png",
+      "image": "100-roads-front-chunk-23-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64842,7 +64842,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "100-roads-front-chunk-24-cec9fba8.png",
+      "image": "100-roads-front-chunk-24-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64857,7 +64857,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "100-roads-front-chunk-25-cec9fba8.png",
+      "image": "100-roads-front-chunk-25-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64872,7 +64872,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "100-roads-front-chunk-26-cec9fba8.png",
+      "image": "100-roads-front-chunk-26-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64887,7 +64887,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "100-roads-front-chunk-27-cec9fba8.png",
+      "image": "100-roads-front-chunk-27-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64902,7 +64902,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "100-roads-front-chunk-28-cec9fba8.png",
+      "image": "100-roads-front-chunk-28-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64917,7 +64917,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "100-roads-front-chunk-29-cec9fba8.png",
+      "image": "100-roads-front-chunk-29-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64932,7 +64932,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "100-roads-front-chunk-30-cec9fba8.png",
+      "image": "100-roads-front-chunk-30-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64947,7 +64947,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "100-roads-front-chunk-31-cec9fba8.png",
+      "image": "100-roads-front-chunk-31-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64962,7 +64962,7 @@
     {
       "columns": 16,
       "firstgid": 7937,
-      "image": "100-roads-front-chunk-32-cec9fba8.png",
+      "image": "100-roads-front-chunk-32-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64977,7 +64977,7 @@
     {
       "columns": 16,
       "firstgid": 8193,
-      "image": "100-roads-front-chunk-33-cec9fba8.png",
+      "image": "100-roads-front-chunk-33-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -64992,7 +64992,7 @@
     {
       "columns": 16,
       "firstgid": 8449,
-      "image": "100-roads-front-chunk-34-cec9fba8.png",
+      "image": "100-roads-front-chunk-34-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -65007,7 +65007,7 @@
     {
       "columns": 16,
       "firstgid": 8705,
-      "image": "100-roads-front-chunk-35-cec9fba8.png",
+      "image": "100-roads-front-chunk-35-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -65022,7 +65022,7 @@
     {
       "columns": 16,
       "firstgid": 8961,
-      "image": "100-roads-front-chunk-36-cec9fba8.png",
+      "image": "100-roads-front-chunk-36-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -65037,7 +65037,7 @@
     {
       "columns": 16,
       "firstgid": 9217,
-      "image": "100-roads-front-chunk-37-cec9fba8.png",
+      "image": "100-roads-front-chunk-37-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -65052,7 +65052,7 @@
     {
       "columns": 16,
       "firstgid": 9473,
-      "image": "100-roads-front-chunk-38-cec9fba8.png",
+      "image": "100-roads-front-chunk-38-f37d9f27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -65067,7 +65067,7 @@
     {
       "columns": 12,
       "firstgid": 9729,
-      "image": "100-roads-front-chunk-39-cec9fba8.png",
+      "image": "100-roads-front-chunk-39-f37d9f27.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -65107,6 +65107,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.8",
   "width": 93
 }
