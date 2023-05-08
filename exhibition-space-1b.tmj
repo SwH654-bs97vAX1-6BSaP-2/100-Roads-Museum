@@ -900,7 +900,7 @@
                         {
                          "name":"closeLayer",
                          "type":"string",
-                         "value":"b1_1_on"
+                         "value":"configuration\/b1_1_on"
                         }, 
                         {
                          "name":"default",
@@ -915,7 +915,7 @@
                         {
                          "name":"openLayer",
                          "type":"string",
-                         "value":"b1_1_off"
+                         "value":"configuration\/b1_1_off"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -933,7 +933,7 @@
                         {
                          "name":"closeLayer",
                          "type":"string",
-                         "value":"b1_2_off"
+                         "value":"configuration\/b1_2_off"
                         }, 
                         {
                          "name":"default",
@@ -948,7 +948,7 @@
                         {
                          "name":"openLayer",
                          "type":"string",
-                         "value":"b1_2_on"
+                         "value":"configuration\/b1_2_on"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -966,7 +966,7 @@
                         {
                          "name":"closeLayer",
                          "type":"string",
-                         "value":"b1_3_off"
+                         "value":"configuration\/b1_3_off"
                         }, 
                         {
                          "name":"default",
@@ -981,7 +981,7 @@
                         {
                          "name":"openLayer",
                          "type":"string",
-                         "value":"b1_3_on"
+                         "value":"configuration\/b1_3_on"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -999,7 +999,7 @@
                         {
                          "name":"closeLayer",
                          "type":"string",
-                         "value":"b1_4_off"
+                         "value":"configuration\/b1_4_off"
                         }, 
                         {
                          "name":"default",
@@ -1014,7 +1014,7 @@
                         {
                          "name":"openLayer",
                          "type":"string",
-                         "value":"b1_4_on"
+                         "value":"configuration\/b1_4_on"
                         }],
                  "rotation":0,
                  "type":"variable",
