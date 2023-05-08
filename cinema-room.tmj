@@ -6135,7 +6135,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 63.5406633214482
         },
         {
@@ -6153,7 +6153,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 1373.58838442037
         },
         {
@@ -6171,7 +6171,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 64.1831992996661
         }
       ],
@@ -7401,12 +7401,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.8.4",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "cinema-room-chunk-1-4c761761.png",
+      "image": "cinema-room-chunk-1-59a2ec95.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7432,7 +7432,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "cinema-room-chunk-2-4c761761.png",
+      "image": "cinema-room-chunk-2-59a2ec95.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7447,7 +7447,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "cinema-room-chunk-3-4c761761.png",
+      "image": "cinema-room-chunk-3-59a2ec95.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7462,7 +7462,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "cinema-room-chunk-4-4c761761.png",
+      "image": "cinema-room-chunk-4-59a2ec95.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7477,7 +7477,7 @@
     {
       "columns": 14,
       "firstgid": 1025,
-      "image": "cinema-room-chunk-5-4c761761.png",
+      "image": "cinema-room-chunk-5-59a2ec95.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
@@ -7517,6 +7517,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.8",
   "width": 43
 }

@@ -6995,7 +6995,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 60.6778155986385
         },
         {
@@ -7013,7 +7013,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 62.8977356815155
         },
         {
@@ -7031,7 +7031,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 1370.6187082078
         },
         {
@@ -7049,7 +7049,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 547.676737413787
         }
       ],
@@ -8451,12 +8451,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.8.4",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "exhibition-space-4a-chunk-1-d52dcf76.png",
+      "image": "exhibition-space-4a-chunk-1-7d7cb56d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8482,7 +8482,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "exhibition-space-4a-chunk-2-d52dcf76.png",
+      "image": "exhibition-space-4a-chunk-2-7d7cb56d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8497,7 +8497,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "exhibition-space-4a-chunk-3-d52dcf76.png",
+      "image": "exhibition-space-4a-chunk-3-7d7cb56d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8512,7 +8512,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "exhibition-space-4a-chunk-4-d52dcf76.png",
+      "image": "exhibition-space-4a-chunk-4-7d7cb56d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8527,7 +8527,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "exhibition-space-4a-chunk-5-d52dcf76.png",
+      "image": "exhibition-space-4a-chunk-5-7d7cb56d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8542,7 +8542,7 @@
     {
       "columns": 10,
       "firstgid": 1281,
-      "image": "exhibition-space-4a-chunk-6-d52dcf76.png",
+      "image": "exhibition-space-4a-chunk-6-7d7cb56d.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -8582,6 +8582,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.8",
   "width": 43
 }

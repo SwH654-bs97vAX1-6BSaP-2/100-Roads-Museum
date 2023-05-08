@@ -6988,7 +6988,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 63.148398737032
         },
         {
@@ -7006,7 +7006,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 1371.56704361874
         },
         {
@@ -7024,7 +7024,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 63.0329996292176
         }
       ],
@@ -7037,12 +7037,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.8.4",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "cinema-corridor-chunk-1-dfbe7e7a.png",
+      "image": "cinema-corridor-chunk-1-bbeef59e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7068,7 +7068,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "cinema-corridor-chunk-2-dfbe7e7a.png",
+      "image": "cinema-corridor-chunk-2-bbeef59e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7083,7 +7083,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "cinema-corridor-chunk-3-dfbe7e7a.png",
+      "image": "cinema-corridor-chunk-3-bbeef59e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7098,7 +7098,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "cinema-corridor-chunk-4-dfbe7e7a.png",
+      "image": "cinema-corridor-chunk-4-bbeef59e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7113,7 +7113,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "cinema-corridor-chunk-5-dfbe7e7a.png",
+      "image": "cinema-corridor-chunk-5-bbeef59e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7128,7 +7128,7 @@
     {
       "columns": 10,
       "firstgid": 1281,
-      "image": "cinema-corridor-chunk-6-dfbe7e7a.png",
+      "image": "cinema-corridor-chunk-6-bbeef59e.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -7168,6 +7168,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.8",
   "width": 43
 }

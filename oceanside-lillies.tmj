@@ -7196,7 +7196,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 63.0568882796436
         },
         {
@@ -7214,7 +7214,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 64.4276901987662
         }
       ],
@@ -7227,12 +7227,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.8.4",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "oceanside-lillies-chunk-1-ac9931b1.png",
+      "image": "oceanside-lillies-chunk-1-b149f994.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7258,7 +7258,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "oceanside-lillies-chunk-2-ac9931b1.png",
+      "image": "oceanside-lillies-chunk-2-b149f994.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7273,7 +7273,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "oceanside-lillies-chunk-3-ac9931b1.png",
+      "image": "oceanside-lillies-chunk-3-b149f994.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7288,7 +7288,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "oceanside-lillies-chunk-4-ac9931b1.png",
+      "image": "oceanside-lillies-chunk-4-b149f994.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7303,7 +7303,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "oceanside-lillies-chunk-5-ac9931b1.png",
+      "image": "oceanside-lillies-chunk-5-b149f994.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7318,7 +7318,7 @@
     {
       "columns": 12,
       "firstgid": 1281,
-      "image": "oceanside-lillies-chunk-6-ac9931b1.png",
+      "image": "oceanside-lillies-chunk-6-b149f994.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -7358,6 +7358,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.8",
   "width": 43
 }

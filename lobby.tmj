@@ -36191,7 +36191,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 165.994560630217
         },
         {
@@ -36209,7 +36209,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 774.699681294435
         },
         {
@@ -36227,7 +36227,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 164.28839654525
         },
         {
@@ -36245,7 +36245,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 49.8364740694597
         },
         {
@@ -36263,7 +36263,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 45.0878025628858
         }
       ],
@@ -41437,12 +41437,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.8.4",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "lobby-chunk-1-e90c7155.png",
+      "image": "lobby-chunk-1-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41468,7 +41468,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "lobby-chunk-2-e90c7155.png",
+      "image": "lobby-chunk-2-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41483,7 +41483,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "lobby-chunk-3-e90c7155.png",
+      "image": "lobby-chunk-3-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41498,7 +41498,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "lobby-chunk-4-e90c7155.png",
+      "image": "lobby-chunk-4-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41513,7 +41513,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "lobby-chunk-5-e90c7155.png",
+      "image": "lobby-chunk-5-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41528,7 +41528,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "lobby-chunk-6-e90c7155.png",
+      "image": "lobby-chunk-6-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41543,7 +41543,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "lobby-chunk-7-e90c7155.png",
+      "image": "lobby-chunk-7-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41558,7 +41558,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "lobby-chunk-8-e90c7155.png",
+      "image": "lobby-chunk-8-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41573,7 +41573,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "lobby-chunk-9-e90c7155.png",
+      "image": "lobby-chunk-9-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41588,7 +41588,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "lobby-chunk-10-e90c7155.png",
+      "image": "lobby-chunk-10-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41603,7 +41603,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "lobby-chunk-11-e90c7155.png",
+      "image": "lobby-chunk-11-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41618,7 +41618,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "lobby-chunk-12-e90c7155.png",
+      "image": "lobby-chunk-12-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41633,7 +41633,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "lobby-chunk-13-e90c7155.png",
+      "image": "lobby-chunk-13-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41648,7 +41648,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "lobby-chunk-14-e90c7155.png",
+      "image": "lobby-chunk-14-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41663,7 +41663,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "lobby-chunk-15-e90c7155.png",
+      "image": "lobby-chunk-15-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41678,7 +41678,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "lobby-chunk-16-e90c7155.png",
+      "image": "lobby-chunk-16-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41693,7 +41693,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "lobby-chunk-17-e90c7155.png",
+      "image": "lobby-chunk-17-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41708,7 +41708,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "lobby-chunk-18-e90c7155.png",
+      "image": "lobby-chunk-18-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41723,7 +41723,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "lobby-chunk-19-e90c7155.png",
+      "image": "lobby-chunk-19-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41738,7 +41738,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "lobby-chunk-20-e90c7155.png",
+      "image": "lobby-chunk-20-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41753,7 +41753,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "lobby-chunk-21-e90c7155.png",
+      "image": "lobby-chunk-21-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41768,7 +41768,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "lobby-chunk-22-e90c7155.png",
+      "image": "lobby-chunk-22-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41783,7 +41783,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "lobby-chunk-23-e90c7155.png",
+      "image": "lobby-chunk-23-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41798,7 +41798,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "lobby-chunk-24-e90c7155.png",
+      "image": "lobby-chunk-24-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41813,7 +41813,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "lobby-chunk-25-e90c7155.png",
+      "image": "lobby-chunk-25-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41828,7 +41828,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "lobby-chunk-26-e90c7155.png",
+      "image": "lobby-chunk-26-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41843,7 +41843,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "lobby-chunk-27-e90c7155.png",
+      "image": "lobby-chunk-27-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41858,7 +41858,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "lobby-chunk-28-e90c7155.png",
+      "image": "lobby-chunk-28-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41873,7 +41873,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "lobby-chunk-29-e90c7155.png",
+      "image": "lobby-chunk-29-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41888,7 +41888,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "lobby-chunk-30-e90c7155.png",
+      "image": "lobby-chunk-30-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41903,7 +41903,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "lobby-chunk-31-e90c7155.png",
+      "image": "lobby-chunk-31-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41918,7 +41918,7 @@
     {
       "columns": 16,
       "firstgid": 7937,
-      "image": "lobby-chunk-32-e90c7155.png",
+      "image": "lobby-chunk-32-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41933,7 +41933,7 @@
     {
       "columns": 16,
       "firstgid": 8193,
-      "image": "lobby-chunk-33-e90c7155.png",
+      "image": "lobby-chunk-33-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41948,7 +41948,7 @@
     {
       "columns": 16,
       "firstgid": 8449,
-      "image": "lobby-chunk-34-e90c7155.png",
+      "image": "lobby-chunk-34-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41963,7 +41963,7 @@
     {
       "columns": 16,
       "firstgid": 8705,
-      "image": "lobby-chunk-35-e90c7155.png",
+      "image": "lobby-chunk-35-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41978,7 +41978,7 @@
     {
       "columns": 16,
       "firstgid": 8961,
-      "image": "lobby-chunk-36-e90c7155.png",
+      "image": "lobby-chunk-36-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41993,7 +41993,7 @@
     {
       "columns": 16,
       "firstgid": 9217,
-      "image": "lobby-chunk-37-e90c7155.png",
+      "image": "lobby-chunk-37-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -42008,7 +42008,7 @@
     {
       "columns": 16,
       "firstgid": 9473,
-      "image": "lobby-chunk-38-e90c7155.png",
+      "image": "lobby-chunk-38-95332191.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -42023,7 +42023,7 @@
     {
       "columns": 13,
       "firstgid": 9729,
-      "image": "lobby-chunk-39-e90c7155.png",
+      "image": "lobby-chunk-39-95332191.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
@@ -42063,6 +42063,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.8",
   "width": 156
 }

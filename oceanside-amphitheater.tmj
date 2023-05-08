@@ -7487,7 +7487,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 61.8840247536099
         },
         {
@@ -7505,7 +7505,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 61.88402475361
         }
       ],
@@ -9379,12 +9379,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.8.4",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "oceanside-amphitheater-chunk-1-0cf19b08.png",
+      "image": "oceanside-amphitheater-chunk-1-c6b9a13d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9410,7 +9410,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "oceanside-amphitheater-chunk-2-0cf19b08.png",
+      "image": "oceanside-amphitheater-chunk-2-c6b9a13d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9425,7 +9425,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "oceanside-amphitheater-chunk-3-0cf19b08.png",
+      "image": "oceanside-amphitheater-chunk-3-c6b9a13d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9440,7 +9440,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "oceanside-amphitheater-chunk-4-0cf19b08.png",
+      "image": "oceanside-amphitheater-chunk-4-c6b9a13d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9455,7 +9455,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "oceanside-amphitheater-chunk-5-0cf19b08.png",
+      "image": "oceanside-amphitheater-chunk-5-c6b9a13d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9470,7 +9470,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "oceanside-amphitheater-chunk-6-0cf19b08.png",
+      "image": "oceanside-amphitheater-chunk-6-c6b9a13d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9485,7 +9485,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "oceanside-amphitheater-chunk-7-0cf19b08.png",
+      "image": "oceanside-amphitheater-chunk-7-c6b9a13d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9500,7 +9500,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "oceanside-amphitheater-chunk-8-0cf19b08.png",
+      "image": "oceanside-amphitheater-chunk-8-c6b9a13d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9515,7 +9515,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "oceanside-amphitheater-chunk-9-0cf19b08.png",
+      "image": "oceanside-amphitheater-chunk-9-c6b9a13d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9530,7 +9530,7 @@
     {
       "columns": 3,
       "firstgid": 2305,
-      "image": "oceanside-amphitheater-chunk-10-0cf19b08.png",
+      "image": "oceanside-amphitheater-chunk-10-c6b9a13d.png",
       "imageheight": 96,
       "imagewidth": 96,
       "margin": 0,
@@ -9570,6 +9570,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.8",
   "width": 42
 }

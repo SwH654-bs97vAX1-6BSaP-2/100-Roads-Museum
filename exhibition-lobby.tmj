@@ -6780,7 +6780,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 1371.61001296715
         },
         {
@@ -6798,7 +6798,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 61.5679299493777
         }
       ],
@@ -6811,12 +6811,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.8.4",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "exhibition-lobby-chunk-1-d3c1d0ab.png",
+      "image": "exhibition-lobby-chunk-1-4d5ff9c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6842,7 +6842,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "exhibition-lobby-chunk-2-d3c1d0ab.png",
+      "image": "exhibition-lobby-chunk-2-4d5ff9c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6857,7 +6857,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "exhibition-lobby-chunk-3-d3c1d0ab.png",
+      "image": "exhibition-lobby-chunk-3-4d5ff9c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6872,7 +6872,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "exhibition-lobby-chunk-4-d3c1d0ab.png",
+      "image": "exhibition-lobby-chunk-4-4d5ff9c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6887,7 +6887,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "exhibition-lobby-chunk-5-d3c1d0ab.png",
+      "image": "exhibition-lobby-chunk-5-4d5ff9c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6902,7 +6902,7 @@
     {
       "columns": 8,
       "firstgid": 1281,
-      "image": "exhibition-lobby-chunk-6-d3c1d0ab.png",
+      "image": "exhibition-lobby-chunk-6-4d5ff9c5.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
@@ -6942,6 +6942,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.8",
   "width": 43
 }

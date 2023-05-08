@@ -11733,7 +11733,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 153.641083204714
         },
         {
@@ -11751,7 +11751,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 160.978750804894
         }
       ],
@@ -11764,12 +11764,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.8.4",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "community-space-chunk-1-6ebe3de1.png",
+      "image": "community-space-chunk-1-8a6880db.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11795,7 +11795,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "community-space-chunk-2-6ebe3de1.png",
+      "image": "community-space-chunk-2-8a6880db.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11810,7 +11810,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "community-space-chunk-3-6ebe3de1.png",
+      "image": "community-space-chunk-3-8a6880db.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11825,7 +11825,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "community-space-chunk-4-6ebe3de1.png",
+      "image": "community-space-chunk-4-8a6880db.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11840,7 +11840,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "community-space-chunk-5-6ebe3de1.png",
+      "image": "community-space-chunk-5-8a6880db.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11855,7 +11855,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "community-space-chunk-6-6ebe3de1.png",
+      "image": "community-space-chunk-6-8a6880db.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11870,7 +11870,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "community-space-chunk-7-6ebe3de1.png",
+      "image": "community-space-chunk-7-8a6880db.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11885,7 +11885,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "community-space-chunk-8-6ebe3de1.png",
+      "image": "community-space-chunk-8-8a6880db.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11900,7 +11900,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "community-space-chunk-9-6ebe3de1.png",
+      "image": "community-space-chunk-9-8a6880db.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11915,7 +11915,7 @@
     {
       "columns": 5,
       "firstgid": 2305,
-      "image": "community-space-chunk-10-6ebe3de1.png",
+      "image": "community-space-chunk-10-8a6880db.png",
       "imageheight": 160,
       "imagewidth": 160,
       "margin": 0,
@@ -11955,6 +11955,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.8",
   "width": 93
 }

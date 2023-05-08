@@ -6135,7 +6135,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 65.206316861946
         },
         {
@@ -6153,7 +6153,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 61.8087182823683
         },
         {
@@ -6171,7 +6171,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 1366.29798308393
         }
       ],
@@ -7401,12 +7401,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.8.4",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "corridor-with-glass-chunk-1-f7726510.png",
+      "image": "corridor-with-glass-chunk-1-a504a556.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7432,7 +7432,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "corridor-with-glass-chunk-2-f7726510.png",
+      "image": "corridor-with-glass-chunk-2-a504a556.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7447,7 +7447,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "corridor-with-glass-chunk-3-f7726510.png",
+      "image": "corridor-with-glass-chunk-3-a504a556.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7462,7 +7462,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "corridor-with-glass-chunk-4-f7726510.png",
+      "image": "corridor-with-glass-chunk-4-a504a556.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7477,7 +7477,7 @@
     {
       "columns": 14,
       "firstgid": 1025,
-      "image": "corridor-with-glass-chunk-5-f7726510.png",
+      "image": "corridor-with-glass-chunk-5-a504a556.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
@@ -7517,6 +7517,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.8",
   "width": 43
 }

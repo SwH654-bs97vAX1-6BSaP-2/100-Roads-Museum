@@ -4192,7 +4192,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 32.0703171398029
         },
         {
@@ -4210,7 +4210,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 32.0703171398028
         }
       ],
@@ -4223,12 +4223,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.8.4",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "board-members-empty-room-chunk-1-63ce2bf3.png",
+      "image": "board-members-empty-room-chunk-1-3cbeabcf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -4254,7 +4254,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "board-members-empty-room-chunk-2-63ce2bf3.png",
+      "image": "board-members-empty-room-chunk-2-3cbeabcf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -4269,7 +4269,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "board-members-empty-room-chunk-3-63ce2bf3.png",
+      "image": "board-members-empty-room-chunk-3-3cbeabcf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -4284,7 +4284,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "board-members-empty-room-chunk-4-63ce2bf3.png",
+      "image": "board-members-empty-room-chunk-4-3cbeabcf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -4299,7 +4299,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "board-members-empty-room-chunk-5-63ce2bf3.png",
+      "image": "board-members-empty-room-chunk-5-3cbeabcf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -4314,7 +4314,7 @@
     {
       "columns": 10,
       "firstgid": 1281,
-      "image": "board-members-empty-room-chunk-6-63ce2bf3.png",
+      "image": "board-members-empty-room-chunk-6-3cbeabcf.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -4354,6 +4354,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.8",
   "width": 43
 }

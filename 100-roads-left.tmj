@@ -11275,7 +11275,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 35.4318253717179
         },
         {
@@ -11293,7 +11293,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 38.9294403892945
         }
       ],
@@ -13551,12 +13551,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.8.4",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "100-roads-left-chunk-1-0e65c0a2.png",
+      "image": "100-roads-left-chunk-1-c0d6762a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13582,7 +13582,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "100-roads-left-chunk-2-0e65c0a2.png",
+      "image": "100-roads-left-chunk-2-c0d6762a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13597,7 +13597,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "100-roads-left-chunk-3-0e65c0a2.png",
+      "image": "100-roads-left-chunk-3-c0d6762a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13612,7 +13612,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "100-roads-left-chunk-4-0e65c0a2.png",
+      "image": "100-roads-left-chunk-4-c0d6762a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13627,7 +13627,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "100-roads-left-chunk-5-0e65c0a2.png",
+      "image": "100-roads-left-chunk-5-c0d6762a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13642,7 +13642,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "100-roads-left-chunk-6-0e65c0a2.png",
+      "image": "100-roads-left-chunk-6-c0d6762a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13657,7 +13657,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "100-roads-left-chunk-7-0e65c0a2.png",
+      "image": "100-roads-left-chunk-7-c0d6762a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13672,7 +13672,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "100-roads-left-chunk-8-0e65c0a2.png",
+      "image": "100-roads-left-chunk-8-c0d6762a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13687,7 +13687,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "100-roads-left-chunk-9-0e65c0a2.png",
+      "image": "100-roads-left-chunk-9-c0d6762a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13702,7 +13702,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "100-roads-left-chunk-10-0e65c0a2.png",
+      "image": "100-roads-left-chunk-10-c0d6762a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13717,7 +13717,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "100-roads-left-chunk-11-0e65c0a2.png",
+      "image": "100-roads-left-chunk-11-c0d6762a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13732,7 +13732,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "100-roads-left-chunk-12-0e65c0a2.png",
+      "image": "100-roads-left-chunk-12-c0d6762a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13747,7 +13747,7 @@
     {
       "columns": 11,
       "firstgid": 3073,
-      "image": "100-roads-left-chunk-13-0e65c0a2.png",
+      "image": "100-roads-left-chunk-13-c0d6762a.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
@@ -13787,6 +13787,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.8",
   "width": 62
 }
