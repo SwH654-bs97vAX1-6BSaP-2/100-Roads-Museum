@@ -356,7 +356,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":100.346994279284,
                  "id":1,
                  "name":"exit-to-community-1",
@@ -367,13 +366,13 @@
                          "value":"community-space.tmj#entry-from-lobby"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":165.994560630217,
                  "x":1209.79086561005,
                  "y":675.232111038169
                 }, 
                 {
-                 "class":"area",
                  "height":61.2895317479774,
                  "id":2,
                  "name":"exit-to-100-roads-front",
@@ -384,13 +383,13 @@
                          "value":"100-roads-front.tmj#entry-from-lobby"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":774.699681294435,
                  "x":2174.55258641824,
                  "y":995.341995587154
                 }, 
                 {
-                 "class":"area",
                  "height":97.6342470897484,
                  "id":3,
                  "name":"exit-to-community-2",
@@ -401,13 +400,13 @@
                          "value":"community-space.tmj#entry-from-lobby"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":164.28839654525,
                  "x":3618.0998873451,
                  "y":671.23544874202
                 }, 
                 {
-                 "class":"area",
                  "height":209.269261308278,
                  "id":4,
                  "name":"exit-to-exhibition-lobby",
@@ -418,13 +417,13 @@
                          "value":"exhibition-lobby.tmj#entry-from-lobby"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":49.8364740694597,
                  "x":2164.77184239215,
                  "y":535.163070104274
                 }, 
                 {
-                 "class":"area",
                  "height":220.692928334124,
                  "id":5,
                  "name":"exit-to-exhibition-space-6",
@@ -435,6 +434,7 @@
                          "value":"exhibition-space-6.tmj#entry-from-lobby"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":45.0878025628858,
                  "x":2795.44375889891,
@@ -510,7 +510,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -564,6 +564,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":156
 }

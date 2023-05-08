@@ -696,7 +696,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":209.040371472572,
                  "id":1,
                  "name":"exit-to-exhibition-lobby",
@@ -707,13 +706,13 @@
                          "value":"exhibition-lobby.tmj#entry-from-exhibition-space-1a"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":55.2150586490494,
                  "x":0.607847991951543,
                  "y":463.299573455254
                 }, 
                 {
-                 "class":"area",
                  "height":60.1549755301794,
                  "id":2,
                  "name":"exit-to-lobby",
@@ -724,13 +723,13 @@
                          "value":"lobby.tmj#entry-from-exhibition-lobby"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":1371.48680994892,
                  "x":1.01957585644372,
                  "y":961.460032626427
                 }, 
                 {
-                 "class":"area",
                  "height":221.396943293815,
                  "id":3,
                  "name":"exit-to-exhibition-space-1b",
@@ -741,13 +740,13 @@
                          "value":"exhibition-space-1b.tmj#entry-from-exhibition-space-1a"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.1625095483989,
                  "x":1311.61259204169,
                  "y":449.935723468076
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":4,
                  "name":"var-a1-1",
@@ -774,13 +773,13 @@
                          "value":"a1_1_on"
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":478.33,
                  "y":358.666666666667
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":5,
                  "name":"var-a1-2",
@@ -807,13 +806,13 @@
                          "value":"a1_2_on"
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":836,
                  "y":337.333333333333
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":6,
                  "name":"var-a1-3",
@@ -840,6 +839,7 @@
                          "value":"a1_3_on"
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1257.33333333333,
@@ -919,7 +919,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -999,6 +999,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":43
 }

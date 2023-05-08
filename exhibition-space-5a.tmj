@@ -251,7 +251,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":191.699236925368,
                  "id":1,
                  "name":"exit-to-exterior-gathering-space",
@@ -262,13 +261,13 @@
                          "value":"exterior-gathering-space.tmj#entry-from-exhibition-space-5a"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.2793597617718,
                  "x":2.79173646007817,
                  "y":543.458030895217
                 }, 
                 {
-                 "class":"area",
                  "height":61.4182021217198,
                  "id":2,
                  "name":"exit-to-lobby",
@@ -279,13 +278,13 @@
                          "value":"lobby.tmj#entry-from-exhibition-lobby"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":1374.46491717848,
                  "x":1.86115764005211,
                  "y":962.218499906942
                 }, 
                 {
-                 "class":"area",
                  "height":193.820544977768,
                  "id":3,
                  "name":"exit-to-exhibition-space-5b",
@@ -296,6 +295,7 @@
                          "value":"exhibition-space-5b.tmj#entry-from-exhibition-space-5a"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":61.6262904513039,
                  "x":1313.81354674454,
@@ -370,7 +370,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -411,6 +411,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":43
 }

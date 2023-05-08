@@ -838,7 +838,7 @@
                          "value":"lobby.tmj#entry-from-100-roads-front"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":129.30386408059,
                  "x":1308.82574049015,
@@ -855,7 +855,7 @@
                          "value":"100-roads-left.tmj#entry-from-100-roads-front-1"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":42.2819639025622,
                  "x":0.631074088097943,
@@ -872,7 +872,7 @@
                          "value":"100-roads-left.tmj#entry-from-100-roads-front-2"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":26.5051117001136,
                  "x":1.26214817619589,
@@ -889,7 +889,7 @@
                          "value":"100-roads-right.tmj#entry-from-100-roads-front-3"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":39.1265934620724,
                  "x":2936.38773191973,
@@ -906,7 +906,7 @@
                          "value":"100-roads-right.tmj#entry-from-100-roads-front-4"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":32.8158525810927,
                  "x":2943.9606209769,
@@ -923,7 +923,7 @@
                          "value":"oceanside-amphitheater.tmj#entry-from-100-roads-front"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":160.555860877758,
                  "x":2639.55405511502,
@@ -940,7 +940,7 @@
                          "value":"oceanside-spiral.tmj#entry-from-100-roads-front"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":213.198795670925,
                  "x":2000.16274717227,
@@ -957,7 +957,7 @@
                          "value":"oceanside-lillies.tmj#entry-from-100-roads-front"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":306.778419724957,
                  "x":511.839856782488,
@@ -974,7 +974,7 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/100-roads-office#entry-left-wing"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":38.7069426951791,
                  "x":1163.41456282065,

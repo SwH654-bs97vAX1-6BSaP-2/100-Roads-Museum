@@ -356,7 +356,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":116.199198938819,
                  "id":1,
                  "name":"exit-to-oceanside-spiral",
@@ -367,13 +366,13 @@
                          "value":"oceanside-spiral.tmj#entry-from-100-roads-back"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":159.817351598174,
                  "x":293.949771689498,
                  "y":1022.49943119817
                 }, 
                 {
-                 "class":"area",
                  "height":109.915538586139,
                  "id":2,
                  "name":"exit-to-oceanside-lillies",
@@ -384,6 +383,7 @@
                          "value":"oceanside-lillies.tmj#entry-from-100-roads-back"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":139.997685988661,
                  "x":2395.0017355085,
@@ -415,7 +415,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -456,6 +456,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":94
 }

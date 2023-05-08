@@ -251,7 +251,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":192.496562561383,
                  "id":1,
                  "name":"exit-to-exhibition-space-4b",
@@ -262,13 +261,13 @@
                          "value":"exhibition-space-4b.tmj#entry-from-exhibition-space-4c"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":61.8738951090159,
                  "x":1.96425063838146,
                  "y":608.917697898252
                 }, 
                 {
-                 "class":"area",
                  "height":188.56806128462,
                  "id":2,
                  "name":"exit-to-exhibition-4d",
@@ -279,13 +278,13 @@
                          "value":"exhibition-space-4d.tmj#entry-from-exhibition-space-4c"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":60.8917697898253,
                  "x":1314.0836770772,
                  "y":674.720094284031
                 }, 
                 {
-                 "class":"area",
                  "height":59.6184419713833,
                  "id":3,
                  "name":"exit-to-lobby",
@@ -296,13 +295,13 @@
                          "value":"lobby.tmj#entry-from-exhibition-lobby"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":1372.54901960784,
                  "x":1.32485426603074,
                  "y":961.844197138315
                 }, 
                 {
-                 "class":"area",
                  "height":48.3283680900364,
                  "id":4,
                  "name":"exit-to-living-systems",
@@ -313,6 +312,7 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems.json"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":479.973518702416,
                  "x":381.992717643165,
@@ -387,7 +387,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -428,6 +428,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":43
 }

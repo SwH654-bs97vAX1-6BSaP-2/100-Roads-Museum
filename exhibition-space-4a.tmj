@@ -251,7 +251,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":187.953233683587,
                  "id":1,
                  "name":"exit-to-exhibition-space-3e",
@@ -262,13 +261,13 @@
                          "value":"exhibition-space-3e.tmj#entry-from-exhibition-space-4a"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":60.6778155986385,
                  "x":0.739973360959006,
                  "y":672.635785111736
                 }, 
                 {
-                 "class":"area",
                  "height":190.913127127423,
                  "id":2,
                  "name":"exit-to-exhibition-space-4b",
@@ -279,13 +278,13 @@
                          "value":"exhibition-space-4b.tmj#entry-from-exhibition-space-4a"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":62.8977356815155,
                  "x":1311.23279561936,
                  "y":671.895811750777
                 }, 
                 {
-                 "class":"area",
                  "height":66.1290322580645,
                  "id":3,
                  "name":"exit-to-lobby",
@@ -296,13 +295,13 @@
                          "value":"lobby.tmj#entry-from-exhibition-lobby"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":1370.6187082078,
                  "x":3.2258064516129,
                  "y":958.064516129032
                 }, 
                 {
-                 "class":"area",
                  "height":45.8867174635885,
                  "id":4,
                  "name":"exit-to-marketplace-of-ideas",
@@ -313,6 +312,7 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas.json"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":547.676737413787,
                  "x":192.017438687625,
@@ -387,7 +387,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -428,6 +428,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":43
 }

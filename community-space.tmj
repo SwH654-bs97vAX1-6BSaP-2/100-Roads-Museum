@@ -210,7 +210,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":104.53206117581,
                  "id":1,
                  "name":"exit-to-lobby",
@@ -221,13 +220,13 @@
                          "value":"lobby.tmj#entry-from-community-space"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":153.641083204714,
                  "x":201.618633366073,
                  "y":287.910200645433
                 }, 
                 {
-                 "class":"area",
                  "height":129.856192315948,
                  "id":2,
                  "name":"exit-to-board-members-empty-room",
@@ -238,6 +237,7 @@
                          "value":"board-members-empty-room.tmj#entry-from-community-space"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":160.978750804894,
                  "x":770.551620519425,
@@ -269,7 +269,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -310,6 +310,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":93
 }

@@ -244,7 +244,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":194.653872515422,
                  "id":1,
                  "name":"exit-to-100-roads-back",
@@ -255,13 +254,13 @@
                          "value":"100-roads-back.tmj#entry-from-oceanside-lillies"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.0568882796436,
                  "x":0,
                  "y":863.605209047293
                 }, 
                 {
-                 "class":"area",
                  "height":287.868403015764,
                  "id":2,
                  "name":"exit-to-100-roads-front",
@@ -272,6 +271,7 @@
                          "value":"100-roads-front.tmj#entry-from-oceanside-lillies"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.4276901987662,
                  "x":1311.85743660041,
@@ -303,7 +303,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -344,6 +344,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":43
 }
