@@ -7406,7 +7406,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "corridor-with-glass-chunk-1-e31da5f8.png",
+      "image": "corridor-with-glass-chunk-1-e99fab9a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7432,7 +7432,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "corridor-with-glass-chunk-2-e31da5f8.png",
+      "image": "corridor-with-glass-chunk-2-e99fab9a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7447,7 +7447,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "corridor-with-glass-chunk-3-e31da5f8.png",
+      "image": "corridor-with-glass-chunk-3-e99fab9a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7462,7 +7462,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "corridor-with-glass-chunk-4-e31da5f8.png",
+      "image": "corridor-with-glass-chunk-4-e99fab9a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7477,7 +7477,7 @@
     {
       "columns": 14,
       "firstgid": 1025,
-      "image": "corridor-with-glass-chunk-5-e31da5f8.png",
+      "image": "corridor-with-glass-chunk-5-e99fab9a.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
